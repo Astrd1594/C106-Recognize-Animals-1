@@ -1,0 +1,11 @@
+#how-to-label{
+    font-size:17px;
+    color:darkslategrey;
+}
+#start-button{
+    font-size: 15px;
+}
+h1,label,b{
+    cursor: default;
+    font-family: 'Indie Flower', cursive;
+}
